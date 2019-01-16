@@ -1,0 +1,27 @@
+14/01/2019 13:41:51 [INFO] Login succesfully with username: Refunds1
+14/01/2019 13:41:59 [INFO] Single access to the ticket.
+14/01/2019 13:41:59 [INFO] Ticketcase number 507893
+14/01/2019 13:41:59 [INFO] FCR reason - RF CU RQ CA
+14/01/2019 13:41:59 [INFO] Cancellation ticket is correct.
+14/01/2019 13:41:59 [INFO] Booking referance - 2LVIR2
+14/01/2019 13:41:59 [INFO] Ticketcase num. - 507893
+14/01/2019 13:41:59 [INFO] STATUS_LOGGER =====> OPENED 507893  Message  []
+14/01/2019 13:42:01 [INFO] Getting booking 2LVIR2
+14/01/2019 13:42:01 [INFO] Is ticketless = true
+14/01/2019 13:42:01 [INFO] Is already refunded = false
+14/01/2019 13:42:02 [INFO] Is reissued = false
+14/01/2019 13:42:02 [INFO] PNR validation complated for PNR 2LVIR2
+14/01/2019 13:42:02 [INFO] Getting booking 2LVIR2
+14/01/2019 13:42:03 [INFO] Get SINE code for 7@ command - RW
+14/01/2019 13:42:03 [INFO] This PNR   2LVIR2 need split - true
+14/01/2019 13:42:03 [INFO] Started split ticket for partial tax only refund for PNR - 2LVIR2
+14/01/2019 13:42:04 [INFO] Getting booking 2M2HRF
+14/01/2019 13:42:04 [INFO] Split finished, new PNR - 2M2HRF
+14/01/2019 13:42:06 [INFO] For detected currency - EUR, administration fee is - 20.00
+14/01/2019 13:42:06 [INFO] Totally refunded  - EUR16.00
+14/01/2019 13:42:06 [INFO] Closing Astral session : APSRPA03
+14/01/2019 13:42:07 [INFO] Final FCR Reason - RF CU RQ PT
+14/01/2019 13:42:27 [ERROR] [urn:uuid:215A51D81D56D3EA011547473282508159] robotics-flow executePlugin exception: [nodeId=http://127.0.0.1:1] org.webharvest.exception.ScriptException: 
+Config line 69: script block
+AstuteException: Failed to add case notes
+14/01/2019 13:42:27 [INFO] STATUS_LOGGER =====> FAILED  507893  TOP LVL  Message  [Validation complited, PNR was splited, Tickets were canceled, Refund command was entered, 7@ entered, 6//webform entered, FCR reason entered, Letter was send]

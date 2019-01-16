@@ -1,0 +1,22 @@
+14/01/2019 13:37:10 [INFO] Login succesfully with username: Refunds1
+14/01/2019 13:37:22 [INFO] Single access to the ticket.
+14/01/2019 13:37:22 [INFO] Ticketcase number 507886
+14/01/2019 13:37:22 [INFO] FCR reason - RF CU RQ CA
+14/01/2019 13:37:22 [INFO] Cancellation ticket is correct.
+14/01/2019 13:37:22 [INFO] Booking referance - 2NQBS2
+14/01/2019 13:37:23 [INFO] Ticketcase num. - 507886
+14/01/2019 13:37:23 [INFO] STATUS_LOGGER =====> OPENED 507886  Message  []
+14/01/2019 13:37:24 [INFO] Getting booking 2NQBS2
+14/01/2019 13:37:24 [INFO] Is ticketless = true
+14/01/2019 13:37:24 [INFO] Is already refunded = false
+14/01/2019 13:37:25 [INFO] Is reissued = false
+14/01/2019 13:37:25 [INFO] PNR validation complated for PNR 2NQBS2
+14/01/2019 13:37:25 [INFO] Getting booking 2NQBS2
+14/01/2019 13:37:26 [ERROR] Command failed AstralApiAuthException: Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:37:26 [INFO] Exception message --- 
+Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:37:26 [INFO] Closing Astral session : APSRPA04
+14/01/2019 13:37:26 [ERROR] [urn:uuid:215A51D81D56D3EA011547473002896144] robotics-flow executePlugin exception: [nodeId=http://127.0.0.1:5] org.webharvest.exception.ScriptException: 
+Config line 69: script block
+AstralApiAuthException: Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:37:26 [INFO] STATUS_LOGGER =====> FAILED  507886  TOP LVL  Message  []

@@ -1,0 +1,30 @@
+14/01/2019 13:41:42 [INFO] Login succesfully with username: Refunds1
+14/01/2019 13:41:51 [INFO] Single access to the ticket.
+14/01/2019 13:41:51 [INFO] Ticketcase number 507892
+14/01/2019 13:41:51 [INFO] FCR reason - RF CU RQ CA
+14/01/2019 13:41:51 [INFO] Cancellation ticket is correct.
+14/01/2019 13:41:51 [INFO] Booking referance - 23WGW6
+14/01/2019 13:41:52 [INFO] Ticketcase num. - 507892
+14/01/2019 13:41:52 [INFO] STATUS_LOGGER =====> OPENED 507892  Message  []
+14/01/2019 13:41:53 [INFO] Getting booking 23WGW6
+14/01/2019 13:41:53 [INFO] Is ticketless = true
+14/01/2019 13:41:53 [INFO] Is already refunded = false
+14/01/2019 13:41:54 [INFO] Is reissued = false
+14/01/2019 13:41:54 [INFO] PNR validation complated for PNR 23WGW6
+14/01/2019 13:41:54 [INFO] Getting booking 23WGW6
+14/01/2019 13:41:55 [INFO] Get SINE code for 7@ command - RW
+14/01/2019 13:41:55 [INFO] This PNR   23WGW6 need split - true
+14/01/2019 13:41:55 [INFO] Started split ticket for partial tax only refund for PNR - 23WGW6
+14/01/2019 13:41:56 [INFO] Getting booking 2T86FS
+14/01/2019 13:41:56 [INFO] Split finished, new PNR - 2T86FS
+14/01/2019 13:41:58 [INFO] For detected currency - EUR, administration fee is - 20.00
+14/01/2019 13:41:58 [INFO] Totally refunded  - EUR16.00
+14/01/2019 13:41:59 [INFO] Closing Astral session : APSRPA06
+14/01/2019 13:41:59 [INFO] Final FCR Reason - RF CU RQ PT
+14/01/2019 13:42:25 [INFO] Ticket processing was finished
+14/01/2019 13:42:26 [INFO] BOT initialization time: 0
+14/01/2019 13:42:26 [INFO] Astute ticket fetch time: 26
+14/01/2019 13:42:26 [INFO] Astute ticket close time: 26
+14/01/2019 13:42:26 [INFO] Astute total time: 52
+14/01/2019 13:42:26 [INFO] Astral total time: 6
+14/01/2019 13:42:26 [INFO] Total processing time: 59

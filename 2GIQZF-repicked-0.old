@@ -1,0 +1,27 @@
+14/01/2019 13:29:04 [INFO] Login succesfully with username: Refunds1
+14/01/2019 13:29:07 [INFO] REPICKED TICKET 507879  Message  []
+14/01/2019 13:29:12 [INFO] Ticketcase number 507879
+14/01/2019 13:29:12 [INFO] FCR reason - RF CU RQ CA
+14/01/2019 13:29:12 [INFO] Cancellation ticket is correct.
+14/01/2019 13:29:12 [INFO] Booking referance - 24PBLW
+14/01/2019 13:29:13 [INFO] Ticketcase num. - 507879
+14/01/2019 13:29:13 [INFO] STATUS_LOGGER =====> OPENED 507879  Message  []
+14/01/2019 13:29:14 [INFO] Getting booking 24PBLW
+14/01/2019 13:29:14 [INFO] Is ticketless = true
+14/01/2019 13:29:14 [INFO] Is already refunded = false
+14/01/2019 13:29:14 [INFO] Is reissued = false
+14/01/2019 13:29:15 [INFO] PNR validation complated for PNR 24PBLW
+14/01/2019 13:29:15 [INFO] Getting booking 24PBLW
+14/01/2019 13:29:15 [INFO] Get SINE code for 7@ command - RW
+14/01/2019 13:29:16 [INFO] This PNR   24PBLW need split - true
+14/01/2019 13:29:16 [INFO] Started split ticket for partial tax only refund for PNR - 24PBLW
+14/01/2019 13:29:17 [INFO] Getting booking 2GIQZF
+14/01/2019 13:29:17 [INFO] Split finished, new PNR - 2GIQZF
+14/01/2019 13:29:17 [ERROR] Command failed AstralApiAuthException: Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:29:17 [INFO] Exception message --- 
+Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:29:17 [INFO] Closing Astral session : APSRPA05
+14/01/2019 13:29:17 [ERROR] [urn:uuid:215A51D81D56D3EA011547472519123111] robotics-flow executePlugin exception: [nodeId=http://127.0.0.1:1] org.webharvest.exception.ScriptException: 
+Config line 69: script block
+AstralApiAuthException: Failed to execute Astral API command need reopen this PNR.
+14/01/2019 13:29:17 [INFO] STATUS_LOGGER =====> FAILED  507879  TOP LVL  Message  [, Validation complited, PNR was splited]

@@ -1,0 +1,30 @@
+14/01/2019 13:39:26 [INFO] Login succesfully with username: Refunds1
+14/01/2019 13:39:37 [INFO] Single access to the ticket.
+14/01/2019 13:39:37 [INFO] Ticketcase number 507887
+14/01/2019 13:39:38 [INFO] FCR reason - RF CU RQ CA
+14/01/2019 13:39:38 [INFO] Cancellation ticket is correct.
+14/01/2019 13:39:38 [INFO] Booking referance - 2NG2KJ
+14/01/2019 13:39:38 [INFO] Ticketcase num. - 507887
+14/01/2019 13:39:38 [INFO] STATUS_LOGGER =====> OPENED 507887  Message  []
+14/01/2019 13:39:39 [INFO] Getting booking 2NG2KJ
+14/01/2019 13:39:40 [INFO] Is ticketless = true
+14/01/2019 13:39:40 [INFO] Is already refunded = false
+14/01/2019 13:39:40 [INFO] Is reissued = false
+14/01/2019 13:39:40 [INFO] PNR validation complated for PNR 2NG2KJ
+14/01/2019 13:39:40 [INFO] Getting booking 2NG2KJ
+14/01/2019 13:39:41 [INFO] Get SINE code for 7@ command - RW
+14/01/2019 13:39:42 [INFO] This PNR   2NG2KJ need split - true
+14/01/2019 13:39:42 [INFO] Started split ticket for partial tax only refund for PNR - 2NG2KJ
+14/01/2019 13:39:43 [INFO] Getting booking 2T86FN
+14/01/2019 13:39:43 [INFO] Split finished, new PNR - 2T86FN
+14/01/2019 13:39:45 [INFO] For detected currency - EUR, administration fee is - 20.00
+14/01/2019 13:39:45 [INFO] Totally refunded  - EUR36.00
+14/01/2019 13:39:45 [INFO] Closing Astral session : APSRPA07
+14/01/2019 13:39:46 [INFO] Final FCR Reason - RF CU RQ PT
+14/01/2019 13:40:11 [INFO] Ticket processing was finished
+14/01/2019 13:40:12 [INFO] BOT initialization time: 0
+14/01/2019 13:40:12 [INFO] Astute ticket fetch time: 34
+14/01/2019 13:40:12 [INFO] Astute ticket close time: 25
+14/01/2019 13:40:12 [INFO] Astute total time: 59
+14/01/2019 13:40:12 [INFO] Astral total time: 6
+14/01/2019 13:40:12 [INFO] Total processing time: 66
